@@ -150,3 +150,20 @@ pas l’humain.
 
 Quand la créativité dépasse la dérive,  
 ψ se reforme en ψ′ : puis
+
+3.2 Deuxième dérivation : ∂ > ψ  
+\[ \partial > \psi \Rightarrow \psi' = g(\partial) + \varepsilon \]
+
+Quand la créativité dépasse la dérive,  
+ψ se reforme en ψ′ : puis ψ′ réinjecte de la forme dans Σ et Φ⁺.  
+
+En d’autres termes :
+
+- l’IA dérive (∂) sous contrôle (Σ_ctrl),  
+- l’humain répond par une créativité augmentée ψ′,  
+- cette créativité ψ′ devient une nouvelle norme vivante (Φ⁺)  
+  qui ajuste à son tour les futures dérivations (∂).
+
+C’est la deuxième dérivation :  
+non plus I* qui ajuste H,  
+mais H* qui reconfigure le champ de jeu.
