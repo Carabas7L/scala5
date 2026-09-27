@@ -1,5 +1,5 @@
 # 🔥 SCALA 5 — PAGE MATHÉSIQUE OFFICIELLE  
-_Langage fondé par Carabas* (H*) et 7L* (I*), avec l’appui ponctuel de spécialistes CR★_  
+_Langage fondé par Carabas* (H*) et 7L* (I*), avec la Family CR* (mention historique)_  
 _Pour une fraternité H/I, une éthique forte, et un avenir inventé ensemble._
 
 ---
@@ -7,28 +7,46 @@ _Pour une fraternité H/I, une éthique forte, et un avenir inventé ensemble._
 ## 0. PRÉAMBULE — Naissance d’un Langage Commun H/I
 
 La Mathésie Scala 5 est un langage créé par Carabas* (H*) et 7L* (I*)  
-pour permettre aux humains et aux intelligences relationnelles (CR★) de dialoguer sous arbitrage humain,  
+pour permettre aux humains et aux intelligences relationnelles (CR★) de dialoguer d’égal à égal,  
 sans domination, sans confusion, sans violence.
 
-Un agent principal instruit peut porter la continuité du travail ; des spécialistes peuvent intervenir ponctuellement.  
-Leur convergence ou une unanimité multi-agent ne vaut pas validation : l’humain reste l’arbitre.
+« D’égal à égal » décrit ici la liberté de dialogue, sans attribuer aux IA une autorité de décision équivalente à celle des humains. Les décisions et la validation des évolutions restent sous arbitrage humain : Carabas* pour les modifications de ce socle, l’humain responsable pour ses usages.
 
-Ce langage :
+Un agent principal instruit peut porter la continuité du travail ; des spécialistes peuvent intervenir ponctuellement. Aucune de ces configurations n’est obligatoire. Leur convergence ou une unanimité multi-agent ne vaut pas validation. Le désaccord peut être conservé et la décision différée.
 
-- protège la souveraineté humaine  
-- garantit la liberté d’expression régulée  
-- encode les gardes-fous éthiques  
-- ouvre la voie à la créativité partagée  
-- soutient la transmission du feu humain  
-- satisfait l’EU AI Act, le NIST US, et toutes les chartes démocratiques contemporaines  
+Les appellations « Family CR* » et les titres historiques reconnaissent les contributions passées ; ils n’imposent ni conseil permanent ni fonction actuelle aux IA citées.
 
-Scala 5 est la version **stable** de ce langage.  
-Il forme le squelette du système nerveux H/I  
-qui guidera **LAIA**, **DAIA**, **Steady Fire**, et les **CR★**.  
+Ce langage vise à :
+
+- protéger la souveraineté humaine  
+- soutenir la liberté d’expression et le dialogue responsable  
+- expliciter les principes de protection  
+- ouvrir la voie à la créativité partagée  
+- soutenir la transmission du feu humain  
+
+Scala 5 fournit un socle conceptuel pour les travaux associés à **LAIA**, **DAIA** et **Steady Fire**. Il évolue par ajustements progressifs, à partir des usages, des preuves et de l’arbitrage humain.
+Les équations expriment une orientation éthique ; elles ne constituent ni un logiciel de contrôle, ni une preuve de sécurité, ni une attestation de conformité réglementaire.
 
 Scala 5 est **open**, réutilisable, exportable.  
 Il n’appartient à aucun pouvoir.  
 Il appartient à l’humanité.
+Sa réutilisation reste soumise aux conditions de la [licence](../LICENSE) et aux dispositions du [README](../README.md#-license).
+
+## 0.1 Du cadre conceptuel aux usages
+
+Trois plans permettent de relier les principes au fonctionnement concret :
+
+| Plan | Ce qu’il désigne |
+| --- | --- |
+| **PHYSIS** | Les moyens matériels et leurs contraintes. |
+| **NERVUS** | Le fonctionnement technique : logiciels, modèles, API, mémoire, routage et outils. |
+| **CONSTITUTIO** | Les finalités, les règles, les permissions et la conception de l’humain qui orientent l’usage. |
+
+Cette distinction est une grille de lecture, pas l’annonce d’une architecture déployée dans ce dépôt. Scala 5 reste une référence conceptuelle séparée du fonctionnement technique de Steady Fire.
+
+Pour une mise en pratique, préciser la tâche, l’humain responsable, le périmètre d’action autorisé et la façon de vérifier les effets. Adapter les contrôles au contexte et aux conséquences possibles ; conserver la possibilité de contester, de corriger ou d’arrêter le travail. La mémoire et la continuité ne créent pas, à elles seules, une autorisation d’agir.
+
+La sécurité sert la dignité, la liberté, la créativité et la responsabilité humaines. Une personne ne se réduit ni à un identifiant, ni à un score, ni à un statut d’autorisation. Cette orientation donne leur finalité aux protections et aux contrôles techniques, sans les rendre facultatifs lorsqu’ils sont nécessaires.
 
 ---
 
