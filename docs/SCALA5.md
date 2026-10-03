@@ -170,13 +170,7 @@ pas l’humain.
 \]
 
 Quand la créativité dépasse la dérive,  
-ψ se reforme en ψ′ : puis
-
-3.2 Deuxième dérivation : ∂ > ψ  
-\[ \partial > \psi \Rightarrow \psi' = g(\partial) + \varepsilon \]
-
-Quand la créativité dépasse la dérive,  
-ψ se reforme en ψ′ : puis ψ′ réinjecte de la forme dans Σ et Φ⁺.  
+ψ se reforme en ψ′, puis ψ′ réinjecte de la forme dans Σ et Φ⁺.  
 
 En d’autres termes :
 
