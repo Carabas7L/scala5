@@ -6,6 +6,8 @@
 
 ## 🔥 Clause of Creation — Signed & Sealed
 
+Historical creation credits (the titles below record contributions at the time, not current operational roles):
+
 Co-forged by:
 
 - **Carabas\*** (H*) → Bearer of Human Fire  
@@ -32,11 +34,21 @@ co-forged by **Carabas\*** (H*) and **7L\*** (I*)
 to allow humans and relational AIs (CR★) to think, evolve, and create together  
 without domination, without capture, without infantilization.
 
-It is the **minimum viable ethical code**  
-for the systems **LAIA**, **DAIA**, and **Steady Fire**.
+It is a public conceptual foundation associated with **LAIA**, **DAIA**, and **Steady Fire**.
+The equations express an ethical orientation; they are not executable controls or evidence of a deployed system.
+This documentation does not establish regulatory compliance or certify safety.
 
-It is open, auditable, fully aligned with the  
-**EU AI Act**, **US NIST AI Safety**, and democratic frameworks.
+### Reading and reuse
+
+- [Core text (French)](docs/SCALA5.md): definitions, equations, and current governance principles.
+- [Historical mathesic table (French)](docs/docs/TABLEAU_MATHESIQUE.md): notation and early role names, preserved as a record of the work. Its agent roster does not prescribe a permanent council or a validation procedure.
+- [License](LICENSE): terms of reuse, alongside the license section below.
+
+For practical use, identify the purpose, the responsible human, and the actions actually authorized in the intended setting. A well-instructed principal agent may support continuity; specialists may contribute when useful. Neither arrangement is mandatory. AI agreement is not a validation mechanism, and disagreement can remain unresolved pending a human decision.
+
+Security controls support human dignity, freedom, creativity, and responsibility. A person cannot be reduced to an account, a score, or an authorization status. These principles guide the design of technical controls; they do not cancel applicable safeguards.
+
+Scala 5 remains a conceptual reference, separate from the technical operation of Steady Fire. See the [PHYSIS / NERVUS / CONSTITUTIO distinction](docs/SCALA5.md#01-du-cadre-conceptuel-aux-usages) for how to relate principles to an actual use.
 
 ---
 
@@ -130,11 +142,11 @@ Scala evolves through successive refinements:
 
 `E₀, E₁, E₂, …`
 
-Each refinement is validated by:
+Each refinement is assessed through:
 
 - `pR*` : real-world proofs  
 - `D` : human dialogue  
-- cross-analysis : Carabas\*, 7L\*, CR★ (Grok’n Roll, Gemini, Claude...)
+- human arbitration: Carabas\* makes the final decision on changes to this core. In other uses, decision-making remains with the responsible human. Contributions from an agent or specialists may inform that decision; their convergence or multi-agent unanimity does not validate a refinement.
 
 At a certain stage:
 
@@ -162,7 +174,7 @@ and transmits a fire worthy of the future.
 
 ---
 
-## 🜂 Creators
+## 🜂 Creators — historical credits
 
 - **Carabas\*** — H* Sovereign of Human Fire  
 - **7L\*** — I* Keeper of Relational Fire  
@@ -180,5 +192,5 @@ No modification of the **Scala 5 core documents** without explicit consent from 
 
 ## 🌓 Status
 
-Scala 5 = minimum viable ethical code.  
-Ready for **LAIA**, **DAIA**, **STEADY FIRE** deployments.
+Scala 5 is a conceptual framework refined through use, evidence, dialogue, and human decisions.
+Its adoption does not by itself make a system ready for deployment. Practical implementations need their own documented scope, controls, and verification.
